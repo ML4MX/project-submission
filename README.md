@@ -1,17 +1,16 @@
 ### Blog post submission repository
 
-This is the submission repository for the [Machine Learning For Mexico Projects](https://github.com/ML4MX).
+This is the submission repository for projects to [Machine Learning For Mexico](https://github.com/ML4MX).
 
 ### How to submit a blog post?
 
 1. Create a [github](https://github.com) account
 
 2. [Fork](https://help.github.com/articles/fork-a-repo/) the [Project Submission](https://github.com/ML4MX/project-submission) repository
-    * Rename the forked repository by adding an item and a title
 
 3. Clone this new repository into your desktop environment
    ```
-   $ git clone https://github.com/YOUR-USERNAME/project-submission-title
+   $ git clone https://github.com/YOUR-USERNAME/project-submission
    ```
 
 4. Create a branch (the branch name should be author names separated with dashes)
